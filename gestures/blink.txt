@@ -1,0 +1,21 @@
+/muse/elements/
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500
+blink 0 500
+blink 1 500

@@ -1,0 +1,16 @@
+/muse/elements/
+jaw_clench 0 500
+jaw_clench 1 500
+jaw_clench 1 500
+jaw_clench 1 500
+jaw_clench 0 500
+jaw_clench 1 500
+jaw_clench 1 500
+jaw_clench 1 500
+jaw_clench 1 500
+jaw_clench 1 500
+jaw_clench 0 500
+jaw_clench 1 500
+jaw_clench 1 500
+jaw_clench 1 500
+jaw_clench 0 500
